@@ -34,3 +34,12 @@ This experiment combines:
 - Ollama
 - local LLM
 - IMAP
+
+  ## Example Output
+
+Input:
+"Limited time offer! Click here now!"
+
+Output:
+category=spam  
+confidence=0.92
