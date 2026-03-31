@@ -2,6 +2,9 @@
 
 Senior Sales Engineer exploring practical applications of AI in presales, automation, and customer workflows.
 
+## Current focus
+Exploring how AI (including voice AI) can enhance presales interactions, demos, and customer engagement.
+
 ## Focus Areas
 - AI for Sales Engineering
 - Prompt engineering
